@@ -5,7 +5,6 @@ export const index = () => {
     <div>
         <h1>Index</h1>
     </div>
-    //console.log("Hola Mundo!")
     
   )
 }
