@@ -10,7 +10,8 @@ Las tecnologías con las que trabajo son las siguientes:
 ⚡ React 
 ⚡ Redux
 ⚡ Node 
-⚡ Express 
+⚡ Express
+⚡ Postgres 
   
 
 Podés contactarme por:
