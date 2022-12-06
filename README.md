@@ -12,6 +12,7 @@ Las tecnologías con las que trabajo son las siguientes:
 ⚡ Node 
 ⚡ Express
 ⚡ Postgres 
+⚡ HTML
   
 
 Podés contactarme por:
