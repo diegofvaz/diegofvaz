@@ -12,6 +12,7 @@ Soy Full Stack Developer con experiencia desarrollando sitios web y aplicaciones
 ⚡ Node 
 ⚡ Express
 ⚡ Java
+⚡ Spring Boot
 ⚡ Postgres 
 ⚡ Sequelize
 ⚡ HTML
