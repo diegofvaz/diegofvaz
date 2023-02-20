@@ -15,6 +15,7 @@ Soy Full Stack Developer con experiencia desarrollando sitios web y aplicaciones
 ⚡ Java
 ⚡ Spring Boot
 ⚡ Hibernate
+⚡ MySQL 
 ⚡ Postgres 
 ⚡ HTML
 ⚡ CSS
