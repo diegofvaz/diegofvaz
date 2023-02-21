@@ -21,6 +21,7 @@ Soy Full Stack Developer con experiencia desarrollando sitios web y aplicaciones
 ⚡ Postgres 
 ⚡ HTML
 ⚡ CSS
+⚡ Bootstrap
   
 
 #### Podés contactarme por:
