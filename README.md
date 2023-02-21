@@ -22,6 +22,7 @@ Soy Full Stack Developer con experiencia desarrollando sitios web y aplicaciones
 ⚡ HTML
 ⚡ CSS
 ⚡ Bootstrap
+⚡ Tailwind
   
 
 #### Podés contactarme por:
