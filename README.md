@@ -7,6 +7,7 @@ Soy Full Stack Developer con experiencia desarrollando sitios web y aplicaciones
 #### Las tecnologías con las que trabajo son las siguientes: 
 
 ⚡ JavaScript 
+⚡ TypeScript
 ⚡ React 
 ⚡ Redux
 ⚡ Angular
