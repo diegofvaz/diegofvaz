@@ -9,6 +9,7 @@ Soy Full Stack Developer con experiencia desarrollando sitios web y aplicaciones
 ⚡ JavaScript 
 ⚡ React 
 ⚡ Redux
+⚡ Angular
 ⚡ Node 
 ⚡ Express
 ⚡ Sequelize
