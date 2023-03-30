@@ -6,8 +6,7 @@ Soy Full Stack Developer con experiencia desarrollando sitios web y aplicaciones
 
 ### ✨ Stack ✨
 
-- ⚡ JavaScript 
-- ⚡ TypeScript
+- ⚡ JavaScript + TypeScript
 - ⚡ React 
 - ⚡ Redux
 - ⚡ Angular
