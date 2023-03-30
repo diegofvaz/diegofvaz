@@ -6,23 +6,23 @@ Soy Full Stack Developer con experiencia desarrollando sitios web y aplicaciones
 
 ### ✨ Stack ✨
 
-⚡ JavaScript 
-⚡ TypeScript
-⚡ React 
-⚡ Redux
-⚡ Angular
-⚡ Node 
-⚡ Express
-⚡ Sequelize
-⚡ Java
-⚡ Spring Boot
-⚡ Hibernate
-⚡ MySQL 
-⚡ Postgres 
-⚡ HTML
-⚡ CSS
-⚡ Bootstrap
-⚡ Tailwind
+- ⚡ JavaScript 
+- ⚡ TypeScript
+- ⚡ React 
+- ⚡ Redux
+- ⚡ Angular
+- ⚡ Node 
+- ⚡ Express
+- ⚡ Sequelize
+- ⚡ Java
+- ⚡ Spring Boot
+- ⚡ Hibernate
+- ⚡ MySQL 
+- ⚡ Postgres 
+- ⚡ HTML
+- ⚡ CSS
+- ⚡ Bootstrap
+- ⚡ Tailwind
   
 
 #### Podés contactarme por:
