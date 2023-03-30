@@ -4,7 +4,7 @@
 
 Soy Full Stack Developer con experiencia desarrollando sitios web y aplicaciones. Mi formación en programación comenzó en forma autodidacta y en bootcamps. Actualmente estoy estudiando una tecnicatura en Desarrollo de Software. Participé en proyectos reales usando metodologías ágiles y GitHub. Además de mis conocimientos tecnológicos, mi valor agregado es la Comunicación, que desarrollé trabajando en los principales medios de comunicación de Argentina. Me considero una persona abierta, curiosa, perseverante y que busca siempre nuevos desafíos.
 
-### Las tecnologías con las que trabajo son las siguientes: 
+### ✨ Stack ✨
 
 ⚡ JavaScript 
 ⚡ TypeScript
