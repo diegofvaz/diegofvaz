@@ -10,8 +10,7 @@ Soy Full Stack Developer con experiencia desarrollando sitios web y aplicaciones
 - ⚡ React + Redux
 - ⚡ Angular
 - ⚡ NodeJS + Express + Sequelize
-- ⚡ Java + Spring Boot
-- ⚡ Hibernate
+- ⚡ Java + Spring Boot + Hibernate
 - ⚡ MySQL 
 - ⚡ Postgres 
 - ⚡ HTML
