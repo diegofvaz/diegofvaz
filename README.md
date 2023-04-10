@@ -14,7 +14,7 @@ Soy Full Stack Developer con experiencia desarrollando sitios web y aplicaciones
 - ⚡ MySQL 
 - ⚡ Postgres 
 - ⚡ HTML
-- ⚡ CSS + Bootstrap + Tailwind
+- CSS + Bootstrap + Tailwind
   
 
 #### Podés contactarme por:
