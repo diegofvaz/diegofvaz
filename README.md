@@ -12,6 +12,7 @@ Soy Full Stack Developer con experiencia desarrollando sitios web y aplicaciones
 - Angular
 - NodeJS + Express + Sequelize
 - Java + Spring Boot + Hibernate
+- Python
 - MySQL 
 - Postgres 
 - HTML
