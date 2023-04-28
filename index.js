@@ -5,6 +5,7 @@ export const index = () => {
     <div>
       <h1>Hola Mundo!</h1>
       <h2>Bienvenidos!</h2>
+      <h3>Este es mi proyecto</h3>
     </div>
     
   )
